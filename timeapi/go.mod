@@ -1,4 +1,4 @@
-module microservices/timeapi
+module Go-Microservices/timeapi
 
 go 1.18
 

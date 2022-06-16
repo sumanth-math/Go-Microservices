@@ -1,6 +1,6 @@
 package main
 
-import "microservices/timeapi/app"
+import "Go-Microservices/timeapi/app"
 
 func main() {
 	app.Start()
