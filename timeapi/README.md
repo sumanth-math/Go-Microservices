@@ -1,4 +1,4 @@
-"SomeTime Inc" wants to build an API that returns the current time.
+**"SomeTime Inc" wants to build an API that returns the current time**
 
 Below are the requirements
 
@@ -50,7 +50,7 @@ Questions for this assignment
 
 Build the time API based on the instructions and the requirements and handle errors appropriately
 
-How to Run the Program
+**How to Run the Program**
 1) Open a terminal and go to the timeapi folder.
 2) run the command "go run main.go"
 3) Open Postman
